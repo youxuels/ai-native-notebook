@@ -85,7 +85,15 @@
 
 ## 🖼️ 截图与功能演示
 
-（可在此补充截图）
+![演示图 1](https://raw.githubusercontent.com/youxuels/ai-native-notebook/main/docs/images/1.png)
+
+![演示图 2](https://raw.githubusercontent.com/youxuels/ai-native-notebook/main/docs/images/2.png)
+
+![演示图 3](https://raw.githubusercontent.com/youxuels/ai-native-notebook/main/docs/images/3.png)
+
+![演示图 4](https://raw.githubusercontent.com/youxuels/ai-native-notebook/main/docs/images/4.png)
+
+![演示图 5](https://raw.githubusercontent.com/youxuels/ai-native-notebook/main/docs/images/5.png)
 
 ---
 
